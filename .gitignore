@@ -1,0 +1,41 @@
+# Environnements virtuels Python
+.venv/
+env/
+venv/
+ENV/
+
+# Cache et fichiers compilés Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distributions / Paquets
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Éditeurs de code (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers OS
+.DS_Store
+Thumbs.db
